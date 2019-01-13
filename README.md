@@ -1,4 +1,4 @@
-# TypeScritp typings for uu5 library
+# TypeScript typings for uu5 library
 Tired of all the guessing how is the method called exactly? Tired of the auto-completed brackets for callback props? Here is the first aid for these problems. TypeScript typings for [uu5 library (g04)](https://docs.unicorn.com/uaf/uuapp/uu5) continuously updated.
 
 # Installation
